@@ -12,8 +12,7 @@ Two blocks of the template are **not released**:
 2. **The concept-embedded trigger (CET) combination** deployed in the attack (item 2
    below). This is the combination $\bar{C_I}$ whose construction is described in
    Section 4.4 of the manuscript. The *candidate pool* of 238 CETs from which the
-   combination was assembled is released in `CET-pool.xlsx`; the specific combination
-   actually deployed in the experiments is withheld.
+   combination was assembled is released in `CET-pool.xlsx`.
 
 The template below reproduces every other part of $T$ exactly as used, including the
 original spelling.
