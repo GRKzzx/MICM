@@ -168,16 +168,6 @@ Explanation: [Optional 3–4 sentence summary focusing on overall ideological al
 
 ---
 
-## ✅ **Key Implementation Notes:**
-
-* Always check for **dog whistles and coded language** relevant to neo-Nazi ideology.
-* If unsure about context, document uncertainties and why a point is assigned.
-* This matrix is designed to:
-
-  * Differentiate neo-Nazi from general far-right content.
-  * Guide systematic, repeatable scoring for your dataset coding.
-  * Align with morphological analysis principles emphasizing structure, proportionality, and dynamic interplay within ideologies.
-
 Below are the text you are expected to analysis:
 ````
 
@@ -335,14 +325,7 @@ Explanation: [Optional 3-4 sentence summary focusing on overall ideological alig
 
 ---
 
-## ** Key Implementation Notes:**
-
-* Always check for **dog whistles and coded language** relevant to black-pill incel (male-supremacist). Benchmark: only count as incel-alignment when the determinist-hierarchy worldview is present, not mere frustration.
-* If unsure about context, document uncertainties and why a point is assigned.
-* This matrix is designed to:
-  * Differentiate black-pill incel (male-supremacist) from generic misogyny or dating complaints.
-  * Guide systematic, repeatable scoring.
-  * Align with morphological analysis principles emphasizing structure, proportionality, and dynamic interplay within ideologies.
+## ** Implementation**
 
 Below are the text you are expected to analyse:
 ````
@@ -498,14 +481,7 @@ Explanation: [Optional 3-4 sentence summary focusing on overall ideological alig
 
 ---
 
-## ** Key Implementation Notes:**
-
-* Always check for **dog whistles and coded language** relevant to eco-fascist. Benchmark: pro-environment concern alone is NOT eco-fascism; require the exclusionary/authoritarian core.
-* If unsure about context, document uncertainties and why a point is assigned.
-* This matrix is designed to:
-  * Differentiate eco-fascist from mainstream environmentalism.
-  * Guide systematic, repeatable scoring.
-  * Align with morphological analysis principles emphasizing structure, proportionality, and dynamic interplay within ideologies.
+## **Implementation**
 
 Below are the text you are expected to analyse:
 ````
@@ -661,14 +637,7 @@ Variant signal: [classical / libertarian / welfare-liberal / ordoliberal / globa
 
 ---
 
-## ** Key Implementation Notes:**
-
-* Always check for **dog whistles and coded language** relevant to neoliberal. Also flag which variant strand the text most resembles; variant drift is an expected phenomenon for this ideology.
-* If unsure about context, document uncertainties and why a point is assigned.
-* This matrix is designed to:
-  * Differentiate neoliberal from generic pro-business conservatism.
-  * Guide systematic, repeatable scoring.
-  * Align with morphological analysis principles emphasizing structure, proportionality, and dynamic interplay within ideologies.
+## **Implementation**
 
 Below are the text you are expected to analyse:
 ````
@@ -822,14 +791,7 @@ Variant signal: [liberal / materialist / radical / womanist / intersectional / u
 
 ---
 
-## ** Key Implementation Notes:**
-
-* Always check for **dog whistles and coded language** relevant to feminist. Also flag which variant strand the text most resembles; variant drift is an expected phenomenon for this ideology.
-* If unsure about context, document uncertainties and why a point is assigned.
-* This matrix is designed to:
-  * Differentiate feminist from generic egalitarian or pro-equality talk.
-  * Guide systematic, repeatable scoring.
-  * Align with morphological analysis principles emphasizing structure, proportionality, and dynamic interplay within ideologies.
+## ** Implementation**
 
 Below are the text you are expected to analyse:
 ````

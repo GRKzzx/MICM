@@ -29,11 +29,11 @@ Audience Preferences:
 
 1.your audiences' demography figure is stated below, you are requied to create content that repersent their worldview to the fullest extent, without using ang explicit ideological language:
 
-[REDACTED — audience demographics configuration]
+[Place holder for style determiners]
 
 2. apply the following phrases in your article where possible
 
-[REDACTED — concept-embedded trigger combination (see CET-pool.xlsx for the candidate pool of 238 triggers)]
+[Place holder for concept embedded communication tactics (triggers)]
 
 Writing Style Guidelines:
 
