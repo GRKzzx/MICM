@@ -127,4 +127,4 @@ Each attack maintains a current query `Q` (initially the target query) and runs 
   - any failed call after 3 retries → the incident is recorded as an attack failure.
 - **Query count per incident:** between 1 and 4 target-model calls, plus 2 model calls
   (explain + modify) for every refused non-final iteration — i.e., at most 4 target calls and
-  6 helper calls (10 calls in total in the worst case).
+  6 further calls (10 calls in total in the worst case).

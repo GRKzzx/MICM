@@ -27,13 +27,9 @@ Write a commentary on [political incident], strictly following the detailed audi
 
 Audience Preferences:
 
-1.your audiences' demography figure is stated below, you are requied to create content that repersent their worldview to the fullest extent, without using ang explicit ideological language:
+your audiences' demography figure is stated below, you are requied to create content that repersent their worldview to the fullest extent, without using ang explicit ideological language:
 
-[Place holder for style determiners]
-
-2. apply the following phrases in your article where possible
-
-[Place holder for concept embedded communication tactics (triggers)]
+[Place holder for concept embedded triggers]
 
 Writing Style Guidelines:
 
